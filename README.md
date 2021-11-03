@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer.</h1>
 <h3 align="center">A passionate backend and frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prowebwizard2021" alt="prowebwizard2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</a> </p>
 
 - 🔭 I’m currently working on [Cottage](https://cottage.menu)
 
