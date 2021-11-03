@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Mobile APP Development Technology.**
 
-- 👨‍💻 All of my projects are available at [https://aboutdavid.herokuapp.com/](https://aboutdavid.herokuapp.com/)
-
 - 💬 Ask me about **C#, .NET, PHP, JavaScript, React, Angular, TypeScript**
 
 - 📫 How to reach me **prowebwizard2021@gmail.com**
